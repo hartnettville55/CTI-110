@@ -31,4 +31,6 @@ The robot is considered a humanoid due to it's anatomic nature being cloned from
 26. Using minimal pressure using the ring finger and middle finger of your left hand to make contact with the bottom left corner of side 2 on Slice A and use your thumb to make contact with the bottom left corner of side 1 of Slice A.
 27. Raise Slice A up and rotate it on it's horizontal axis so the bottom left corner of Slice A should now look like it is the bottom right corner.
 28. Lower Slice A down onto Side 1 of Slice B so that all corners of the slices align together. Slice A side 2 should now be facing up and you can no longer see side 1 or 2 of Slice B.
-29. You are done when the peanut butter and jelly are in contact with each other and both slices of bread match all corners
+### Done When
+- The peanut butter and jelly are in contact with each other
+- Corresponding corners of Slice A and Slice B are all touching each other with no overlap 
