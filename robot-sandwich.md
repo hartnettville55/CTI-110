@@ -1,7 +1,30 @@
 # A Robot Sandwich
 Given precise instructions the robot will make a peanut butter and jelly sandwich 
 ### Assumptions Section
-The robot is considered a humanoid due to it's anatomic nature being cloned from human anatomy. When referring to body parts that can be found on the majority of the human species it is assumed that the robot also has those parts and the robot is aware of how to use those parts if given clear instruction on what to do with them. The ingredients and utensil (butter knife) necessary to make a peanut butter and jelly sandwich are present in the kitchen and are already laid out on the countertop. The specific ingredients on the countertop are: a jar of grape jelly and a jar of peanut butter both have already had the freshness seal and the lids removed and 2 sandwich size slices of bread roughly 4.5 inches wide by 4.5 inches tall and about .5 inches thick. Both slices of bread are laying flat on the countertop. To eliminate confusion, laying flat means the broad side is down and the crust creates the entire perimeter of the slice so you can only see one side of each slice. The side of each slice that is facing up and is visible can be noted as side 1. The side that is not visible at the moment that is facing down against the countertop surface is noted as side 2. The 2 slices of bread will be noted as Slice A and Slice B. Slice A is to the left of Slice B, both slices are separated by 2 inches, meaning between slice A there is 2 inches of visible countertop in between. Slice A and Slice B have all their corresponding edges aligned parellel to each other. Neither slice is overlapping, touching, or standing on it's crust edges. As of this time the robots hands are empty. Although the robot lacks common sense, it has an abundance of vocabular knowledge and can identify all items (ingredients and utensil) correctly that are on the countertop as well as identify all of its body parts correctly. The robot is standing at the counter where the ingredients and the butter knife are located and can reach all of the items if told to do something with them. The direction the robot is currently facing will be called the "front", the counter to that would be 180 degrees from "front" is called "back". The left will be noted as the robot's anatomical left or 90 degrees counterclockwise from front. Right is noted as the robot's anatomical right or 90 degrees clockwise from front. The directions up and down are known by differentiating which way gravity is pulling. "Up" is noted as the opposite direction of gravity, "down" is noted as the direction gravity is pulling towards. The robot is familiar with all units of measurement both imperial and metric systems. 
+- The robot is considered a humanoid due to its anatomic nature being cloned from human anatomy.
+- When referring to body parts that can be found on the majority of the human species it is assumed that the robot also has those parts and the robot is aware of how to use those parts if given clear instruction on what to do with them.
+- The ingredients and utensil (butter knife) necessary to make a peanut butter and jelly sandwich are present in the kitchen and are already laid out on the countertop.
+- The specific ingredients on the countertop are:
+    - a jar of grape jelly
+    - jar of peanut butter
+        - both have already had the freshness seal and the lids removed
+    - 2 sandwich size slices of bread (roughly 4.5 inches wide by 4.5 inches tall and about .5 inches thick)
+- Both slices of bread are lying flat on the countertop.
+    - To eliminate confusion, lying flat means the broad side is down and the crust creates the entire perimeter of the slice so you can only see one side of each slice.
+- The side of each slice that is facing up and is visible can be noted as side 1.
+- The side that is not visible at the moment that is facing down against the countertop surface is noted as side 2.
+- The 2 slices of bread will be noted as Slice A and Slice B. Slice A is to the left of Slice B, both slices are separated by 2 inches, meaning between slice A there is 2 inches of visible countertop in between.
+- Slice A and Slice B have all their corresponding edges aligned parellel to each other.
+- Neither slice is overlapping, touching, or standing on it's crust edges.
+- As of this time the robots hands are empty.
+-  Although the robot lacks common sense, it has an abundance of vocabular knowledge and can identify all items (ingredients and utensil) correctly that are on the countertop as well as identify all of its body parts correctly.
+-  The robot is standing at the counter where the ingredients and the butter knife are located and can reach all of the items if told to do something with them.
+-  The direction the robot is currently facing will be called the "front"
+-   the counter to that would be 180 degrees from "front" is called "back".
+-   The left will be noted as the robot's anatomical left or 90 degrees counterclockwise from front.
+-   Right is noted as the robot's anatomical right or 90 degrees clockwise from front.
+-    The directions up and down are known by differentiating which way gravity is pulling. "Up" is noted as the opposite direction of gravity, "down" is noted as the direction gravity is pulling towards.
+-    The robot is familiar with all units of measurement both imperial and metric systems. 
 ### Step by Step List
 1. Visualize the butter knife on the countertop
 2. Grasp the butter knife with your right hand by placing the handle, which is the end opposite of the bladed portion, on top of your 4 fingers and then wrapping your thumb over the top securing it in your grip. 
